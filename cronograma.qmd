@@ -1,0 +1,50 @@
+---
+title: "Cronograma"
+toc: false
+editor: source
+---
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(googlesheets4)
+library(gt)
+library(gtExtras)
+library(tidyverse)
+gs4_deauth()
+d <- read_sheet("15QM7PAOtQ_r3ZBO3Xfy1PRxXv_3-gQQsDDwpY-kBmnU")
+```
+
+```{r, echo = FALSE}
+d %>% 
+  select(-semana) %>% 
+  mutate(
+    fecha = as.Date(fecha),
+    deadline = as.Date(deadline),
+    consigna = ifelse(is.na(consigna), "", consigna),
+    grupo = ifelse(is.na(grupo), "", grupo),
+    material = ifelse(is.na(material), "", material)) %>%
+  gt() %>%
+  fmt_date(fecha, date_style = "10") %>%
+  fmt_date(deadline, date_style = "10") %>%
+  sub_missing(columns = fecha, missing_text = "") %>% 
+  sub_missing(columns = deadline, missing_text = "") %>% 
+  gt_highlight_rows(
+     rows = 2:5,
+     fill = "#eff3ff",
+     bold_target_only = TRUE
+   ) %>% 
+  gt_highlight_rows(
+     rows = 6:9,
+     fill = "#bdd7e7",
+     bold_target_only = TRUE
+   ) %>% 
+  gt_highlight_rows(
+     rows = 10:13,
+     fill = "#6baed6",
+     bold_target_only = TRUE
+   ) %>% 
+  gt_highlight_rows(
+     rows = 15:16,
+     fill = "#2171b5",
+     bold_target_only = TRUE
+   )
+```

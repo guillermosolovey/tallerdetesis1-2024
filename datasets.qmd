@@ -1,0 +1,40 @@
+---
+title: "Datasets"
+toc: true
+editor: source
+---
+
+## Sugerencias para elegir el dataset
+
+Como sugerencia general, elijan un dataset sobre un tema que les interese o sobre el que están trabajando actualmente. Como algunos conjuntos de datos se han usado en exceso para estos objetivos particulares, tenga en cuenta que los siguientes están prohibidos en este trabajo (se pueden agregar más a esta lista, así que asegúrense de revisarla regularmente):
+
+- titanic 
+- mtcars
+- iris
+- MNIST
+- CIFAR-10
+
+Lo mejor es usar un conjunto de datos para el cual no haya un análisis listo en Internet, pero si eligen un conjunto de datos que ya se usó en algún estudio de caso disponible online, proporcionen el enlace a estudios anteriores e informen cómo sus análisis difieren de esos (por ejemplo, si alguien ha realizado un análisis no bayesiano y ustedes realizan el análisis bayesiano completo).
+
+Según el modelo y la estructura de los datos, un buen dataset tendría más de 100 observaciones pero menos de 1 millón. Si conocen un dataset interesante pero muy pesado, pueden usar un subconjunto más pequeño de los datos para mantener factibles los tiempos de cálculo. 
+
+## Inspiración
+
+Si están buscando inspiración o no están seguros de por dónde empezar, pueden mirar las siguientes páginas:
+
+- [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
+- [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+- [https://github.com/rfordatascience/tidytuesday](https://www.kaggle.com/datasets)
+- [https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research](https://www.kaggle.com/datasets)
+- [https://paperswithcode.com/datasets](https://www.kaggle.com/datasets)
+- [https://www.openml.org/search?type=data&sort=runs&status=active](https://www.kaggle.com/datasets)
+
+## ¿Dónde encontrar papers?
+
+- [https://scholar.google.com/](https://scholar.google.com/)
+- [https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/)
+- [https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
+
+## Ejemplos de datasets
+
+Algunos ejemplos específicos que pueden usar según la técnica de análisis están en el [siguiente documento](https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing).

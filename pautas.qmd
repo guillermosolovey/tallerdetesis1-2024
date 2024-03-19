@@ -1,0 +1,89 @@
+---
+title: "Pautas"
+toc: true
+editor: source
+---
+
+## Objetivo
+El trabajo a lo largo de este curso consiste en elegir un conjunto de datos, realizar un análisis adecuado del mismo utilizando al menos dos técnicas aprendidas durante la carrera de especialización y redactar un [informe final](https://docs.google.com/document/d/1b_dq6vqPHRfhvn9gjva1xn2Ttn09uOW6bm6y2L5i22U/edit?usp=sharing). 
+
+## Organización
+El curso está dividido en 4 grupos. Cada grupo asiste a una clase presencial por mes los días martes a las 19.30 horas. Durante las clases presenciales Guillermo Solovey y Gustavo Juantorena explicarán las pautas de los trabajos prácticos a entregar durante el curso y ayudarán a cada uno a conseguir el objetivo. El resto de la semana y para aquellos que no asistan presencial ese día, Jazmín Vidal responderá consultas de forma asincrónica. La presencialidad NO es opcional.
+
+Las consultas se realizan escribiendo a tallerdetesis1-2023@googlegroups.com. 
+Pueden consultar el cronograma de asistencia por grupo [acá](cronograma.html).
+
+## Régimen de aprobación
+La materia tiene 4 entregas (3 entregas parciales y un trabajo final) y se aprueba con 65 puntos. La nota final de la materia se compone así: 
+
+- Entrega 1: 20 puntos
+- Entrega 2: 20 puntos
+- Entrega 3: 20 puntos
+- Trabajo final: 40 puntos
+
+Las consignas para las entregas y del trabajo final se explican los días martes en la clase presencial de cada grupo. Cada entrega tiene una fecha límite que es dos semanas después de la clase. Tener en cuenta que las entregas son incrementales, esto es, que cada una depende de la anterior y culmina en el trabajo final. 
+
+En caso de entregar con retraso, el trabajo tendrá una puntuación menor. Los trabajos entregados hasta una semana después de la fecha límite tendrán 5 puntos menos de puntaje máximo. Los trabajos entregados con más de una semana de atraso tendrán 10 puntos menos de nota máxima.
+
+Las entregas se cargan en una [carpeta de google drive](https://drive.google.com/drive/folders/102wZ-5VHDLOLgl0idrPNVxRyN0_3ZXMc?usp=sharing). Hay una carpeta para cada entrega y para cada grupo. Las entregas deben enviarse en PDF, sin código adjunto y con el nombre: <span style="color:#1776de;">G1-E1-APELLIDO-NOMBRE.PDF</span>
+
+Pueden consultar el cronograma de entregas [acá](cronograma.html). 
+
+## Uso de datos
+Pueden encontrar pautas generales para la elección del dataset en [este documento](https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing). En general, pueden utilizar:
+
+- **Datos públicos**: 
+    sugerimos la utilización de uno de los datasets provistos en la [siguiente lista](https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing). Si el dataset es muy popular y ya hay en internet muchos trabajos hechos, se deberá reportar cómo el trabajo a realizar difiere de ellos. 
+
+- **Datos propios**: 
+    si se deseara realizar las entregas y el informe final utilizando un conjunto de datos propio, se deberá contar -ANTES DE LA PRIMERA ENTREGA- con autorización para hacerlo. De lo contrario tendrán que utilizar un conjunto de datos públicos como los sugeridos en el ítem anterior. 
+
+- **Datos scrapeados**: 
+    datos visibles en una web no necesariamente significa que los podemos scrapear para los fines de este trabajo. Cada página tiene sus condiciones de uso de datos. Sólo se pueden scrapear los datos si está permitido hacerlo.
+
+## Otros recursos
+Ejemplos de trabajos de años anteriores
+
+- [Detección de cataratas y glaucoma en imágenes de fondo de ojo](http://datamining.dc.uba.ar/datamining/Files/especializacion/Trabajo_hestrin.pdf). 
+    Hernán Estrin
+
+- [Patrones de uso del servicio de datos en la red de telefonía móvil de la ciudad de Milán](http://datamining.dc.uba.ar/datamining/Files/especializacion/trabajo_hgarrigo.pdf). 
+    Horacio Gastón Arrigo
+
+
+## Preguntas frecuentes
+
+(@) **¿Qué diferencia hay entre el trabajo de especialización y el trabajo final de esta materia?**
+
+    Poco. Si cumplen con los objetivos de esta materia y hacen todas las entregas de forma completa, van a estar a un paso del trabajo de especialización. Podrían quedar algunas cositas por pulir, pero nada que les impide entregarlo pocas semanas después de finalizada la materia. 
+
+(@) **¿Quién evalúa el trabajo de especialización?**
+
+    En esta materia, los docentes no evaluamos los trabajos finales de especialización pero los preparamos para entregarlo. El trabajo de especialización lo evalúan docentes del posgrado.
+
+(@) **¿Qué diferencia hay entre el trabajo de especialización y la tesis de maestría?**  
+
+    El trabajo de tesis de maestría requiere director/a, se espera que sea más extenso que el de especialización.
+
+(@) **¿Es requisito hacer el trabajo de especialización si quiero seguir con la maestría?**
+
+    No. Se puede aprobar esta materia con todos sus requisitos y continuar hacia la maestría.
+
+(@) **¿Necesito tutor/director para hacer el trabajo de especialización?**
+
+    No.
+
+(@) **¿En qué formato hay que escribir el trabajo final?**
+
+     El que les resulte más cómodo. Puede ser overleaf, Rmd, google docs, Word, … pero el entregable tiene que estar en pdf.
+
+
+## Chat GPT
+Le preguntamos a Chat GPT como realizar un uso creativo del mismo a lo largo del curso y, entre otras cosas, lo que nos dijo fue: 
+
+::: callout-important
+## Importante!
+Recuerda que, aunque Chat GPT puede ser una herramienta útil para ayudarte en tu trabajo final de ciencia de datos, es importante que tú mismo/a te asegures de la calidad de la información y de los resultados obtenidos. 
+¡Buena suerte en tu proyecto!
+:::
+

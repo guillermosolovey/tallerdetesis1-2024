@@ -1,0 +1,27 @@
+---
+title: "Consignas"
+toc: false
+editor: source
+---
+
+Para ver el cronograma de entregas, ver [acá](cronograma.html).
+
+## Entrega 1: Dataset, pregunta y objetivo
+
+[Consigna para la entrega 1](https://docs.google.com/document/d/1E2rBm_2dAjPB-EQmq1EpLmFURxjKpXm9iBB68TltUaI/edit?usp=sharing).
+
+## Entrega 2: Metodología y análisis exploratorio de datos
+
+[Consigna para la entrega 2](https://docs.google.com/document/d/1_R6d-TOmjSYvMdZp6aGVxJs_8F87zkOL1kLAOxGepiI/edit?usp=sharing).
+
+## Entrega 3: Introducción y resultados
+
+[Consigna para la entrega 3](https://docs.google.com/document/d/1mwHluEmoArvED6eXRTp8n43CVxYSZRtykygXBbe7FBk/edit?usp=sharing).
+
+## Trabajo final
+
+La última entrega consiste en sumarle "Discusión y conclusiones" a lo hecho en las entregas anteriores, lo que constituye el trabajo final de la materia.
+
+[Consigna para el trabajo final](https://docs.google.com/document/d/1b_dq6vqPHRfhvn9gjva1xn2Ttn09uOW6bm6y2L5i22U/edit?usp=sharing).
+
+

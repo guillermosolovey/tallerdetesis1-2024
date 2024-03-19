@@ -1,0 +1,35 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "taller de tesis 1"
+  site-url: "https://tallerdetesis1-2023.netlify.app/"
+  navbar:
+    pinned: true
+    background: "#1776de"
+    right:
+      - href: index.qmd
+        text: "{{< fa home >}} Home"
+      - href: cronograma.qmd
+        text: "{{< fa calendar >}} Cronograma"
+      - href: pautas.qmd
+        text: "{{< fa code >}} Pautas"
+      - href: datasets.qmd
+        text: "{{< fa database >}} Datasets"
+      - href: consignas.qmd
+        text: "{{< fa question >}} Consignas"
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+

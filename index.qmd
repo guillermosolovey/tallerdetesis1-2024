@@ -1,0 +1,22 @@
+---
+title: "Taller de Tesis 1"
+subtitle: "Maestría en Explotación de Datos y Descubrimiento del Conocimiento"
+toc: false
+sidebar: false
+editor: source
+---
+
+-   Docentes: Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal Dominguez.
+-   Horario: Martes 19 a 22hs.
+-   Clases: desde el 21 de Marzo al 4 de Julio.
+-   Aula: 1304.
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+------------------------------------------------------------------------
+
+###### `r fa("university", fill = "steelblue")` [Exactas-UBA](https://exactas.uba.ar)
+
+###### `r fa("university", fill = "steelblue")` [Maestría en Explotación de Datos y Descubrimiento del Conocimiento](http://datamining.dc.uba.ar/datamining/)
