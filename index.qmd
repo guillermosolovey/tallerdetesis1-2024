@@ -9,7 +9,7 @@ editor: source
 -   Docentes: Guillermo Solovey, Ian Bounos y Daniela Parada
 -   Horario: Martes 19 a 22hs.
 -   Clases: desde el 19 de Marzo al 2 de Julio.
--   Aula: a confirmar.
+-   Aula: 1306
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
