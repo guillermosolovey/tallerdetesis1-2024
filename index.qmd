@@ -6,10 +6,10 @@ sidebar: false
 editor: source
 ---
 
--   Docentes: Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal Dominguez.
+-   Docentes: Guillermo Solovey, Ian Bounos y Daniela Parada
 -   Horario: Martes 19 a 22hs.
--   Clases: desde el 21 de Marzo al 4 de Julio.
--   Aula: 1304.
+-   Clases: desde el 19 de Marzo al 2 de Julio.
+-   Aula: a confirmar.
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
