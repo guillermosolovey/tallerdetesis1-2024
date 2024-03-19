@@ -5,13 +5,12 @@ editor: source
 ---
 
 ## Objetivo
-El trabajo a lo largo de este curso consiste en elegir un conjunto de datos, realizar un análisis adecuado del mismo utilizando al menos dos técnicas aprendidas durante la carrera de especialización y redactar un [informe final](https://docs.google.com/document/d/1b_dq6vqPHRfhvn9gjva1xn2Ttn09uOW6bm6y2L5i22U/edit?usp=sharing). 
+El trabajo a lo largo de este curso consiste en elegir un conjunto de datos, realizar un análisis adecuado del mismo utilizando al menos dos técnicas aprendidas durante la carrera de especialización y redactar un [informe final](https://docs.google.com/document/d/1C8z5P3DjV2cQD4m67FoZH5LJJUIoeJhf9CkhazCQrfY/edit?usp=drive_link). 
 
 ## Organización
-El curso está dividido en 4 grupos. Cada grupo asiste a una clase presencial por mes los días martes a las 19.30 horas. Durante las clases presenciales Guillermo Solovey y Gustavo Juantorena explicarán las pautas de los trabajos prácticos a entregar durante el curso y ayudarán a cada uno a conseguir el objetivo. El resto de la semana y para aquellos que no asistan presencial ese día, Jazmín Vidal responderá consultas de forma asincrónica. La presencialidad NO es opcional.
+El curso está dividido en 3 grupos. Cada grupo asiste a una clase presencial por mes los días martes a las 19.00 horas. Durante las clases presenciales se explicarán las pautas de los trabajos prácticos a entregar durante el curso y se ayudará a cada uno a conseguir el objetivo. La presencialidad NO es opcional.
 
-Las consultas se realizan escribiendo a tallerdetesis1-2023@googlegroups.com. 
-Pueden consultar el cronograma de asistencia por grupo [acá](cronograma.html).
+Las consultas se realizan escribiendo en el foro del campus. Pueden consultar el cronograma de asistencia por grupo [acá](cronograma.html).
 
 ## Régimen de aprobación
 La materia tiene 4 entregas (3 entregas parciales y un trabajo final) y se aprueba con 65 puntos. La nota final de la materia se compone así: 
@@ -21,19 +20,19 @@ La materia tiene 4 entregas (3 entregas parciales y un trabajo final) y se aprue
 - Entrega 3: 20 puntos
 - Trabajo final: 40 puntos
 
-Las consignas para las entregas y del trabajo final se explican los días martes en la clase presencial de cada grupo. Cada entrega tiene una fecha límite que es dos semanas después de la clase. Tener en cuenta que las entregas son incrementales, esto es, que cada una depende de la anterior y culmina en el trabajo final. 
+Las consignas de las entregas y del trabajo final se explican los días martes en la clase presencial de cada grupo. Cada entrega tiene una fecha límite especificada en el cronograma. Tener en cuenta que las entregas son incrementales, esto es, que cada una depende de la anterior y culmina en el trabajo final. 
 
 En caso de entregar con retraso, el trabajo tendrá una puntuación menor. Los trabajos entregados hasta una semana después de la fecha límite tendrán 5 puntos menos de puntaje máximo. Los trabajos entregados con más de una semana de atraso tendrán 10 puntos menos de nota máxima.
 
-Las entregas se cargan en una [carpeta de google drive](https://drive.google.com/drive/folders/102wZ-5VHDLOLgl0idrPNVxRyN0_3ZXMc?usp=sharing). Hay una carpeta para cada entrega y para cada grupo. Las entregas deben enviarse en PDF, sin código adjunto y con el nombre: <span style="color:#1776de;">G1-E1-APELLIDO-NOMBRE.PDF</span>
+Las entregas se cargan en en el campus de la materia y deben enviarse en PDF, sin código adjunto y con el nombre: <span style="color:#1776de;">G#-E$-APELLIDO-NOMBRE.PDF</span> donde \# es el número de grupo y \$ el número de la entrega
 
 Pueden consultar el cronograma de entregas [acá](cronograma.html). 
 
 ## Uso de datos
-Pueden encontrar pautas generales para la elección del dataset en [este documento](https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing). En general, pueden utilizar:
+Pueden encontrar pautas generales para la elección del dataset en [este documento](https://docs.google.com/document/d/1HzllxEjlBR44Yx5O97CJ_TH-aYdLH-J0Yb4awlfebXQ/edit?usp=drive_link). En general, pueden utilizar:
 
 - **Datos públicos**: 
-    sugerimos la utilización de uno de los datasets provistos en la [siguiente lista](https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing). Si el dataset es muy popular y ya hay en internet muchos trabajos hechos, se deberá reportar cómo el trabajo a realizar difiere de ellos. 
+    sugerimos la utilización de uno de los datasets provistos en la [siguiente lista](https://docs.google.com/document/d/1HzllxEjlBR44Yx5O97CJ_TH-aYdLH-J0Yb4awlfebXQ/edit?usp=drive_link). Si el dataset es muy popular y ya hay en internet muchos trabajos hechos, se deberá reportar cómo el trabajo a realizar difiere de ellos. 
 
 - **Datos propios**: 
     si se deseara realizar las entregas y el informe final utilizando un conjunto de datos propio, se deberá contar -ANTES DE LA PRIMERA ENTREGA- con autorización para hacerlo. De lo contrario tendrán que utilizar un conjunto de datos públicos como los sugeridos en el ítem anterior. 
@@ -50,6 +49,9 @@ Ejemplos de trabajos de años anteriores
 - [Patrones de uso del servicio de datos en la red de telefonía móvil de la ciudad de Milán](http://datamining.dc.uba.ar/datamining/Files/especializacion/trabajo_hgarrigo.pdf). 
     Horacio Gastón Arrigo
 
+Trabajo hecho con una combinación de datasets públicos (Daniela Parada):
+
+- [IC-datasets-docencia](https://daniellaparada.github.io/IC-datasets-docencia/)
 
 ## Preguntas frecuentes
 

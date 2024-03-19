@@ -109,14 +109,14 @@
     "href": "pautas.html#organización",
     "title": "Pautas",
     "section": "Organización",
-    "text": "Organización\nEl curso está dividido en 4 grupos. Cada grupo asiste a una clase presencial por mes los días martes a las 19.30 horas. Durante las clases presenciales Guillermo Solovey y Gustavo Juantorena explicarán las pautas de los trabajos prácticos a entregar durante el curso y ayudarán a cada uno a conseguir el objetivo. El resto de la semana y para aquellos que no asistan presencial ese día, Jazmín Vidal responderá consultas de forma asincrónica. La presencialidad NO es opcional.\nLas consultas se realizan escribiendo a tallerdetesis1-2023@googlegroups.com. Pueden consultar el cronograma de asistencia por grupo acá."
+    "text": "Organización\nEl curso está dividido en 3 grupos. Cada grupo asiste a una clase presencial por mes los días martes a las 19.00 horas. Durante las clases presenciales se explicarán las pautas de los trabajos prácticos a entregar durante el curso y se ayudará a cada uno a conseguir el objetivo. La presencialidad NO es opcional.\nLas consultas se realizan escribiendo en el foro del campus. Pueden consultar el cronograma de asistencia por grupo acá."
   },
   {
     "objectID": "pautas.html#régimen-de-aprobación",
     "href": "pautas.html#régimen-de-aprobación",
     "title": "Pautas",
     "section": "Régimen de aprobación",
-    "text": "Régimen de aprobación\nLa materia tiene 4 entregas (3 entregas parciales y un trabajo final) y se aprueba con 65 puntos. La nota final de la materia se compone así:\n\nEntrega 1: 20 puntos\nEntrega 2: 20 puntos\nEntrega 3: 20 puntos\nTrabajo final: 40 puntos\n\nLas consignas para las entregas y del trabajo final se explican los días martes en la clase presencial de cada grupo. Cada entrega tiene una fecha límite que es dos semanas después de la clase. Tener en cuenta que las entregas son incrementales, esto es, que cada una depende de la anterior y culmina en el trabajo final.\nEn caso de entregar con retraso, el trabajo tendrá una puntuación menor. Los trabajos entregados hasta una semana después de la fecha límite tendrán 5 puntos menos de puntaje máximo. Los trabajos entregados con más de una semana de atraso tendrán 10 puntos menos de nota máxima.\nLas entregas se cargan en una carpeta de google drive. Hay una carpeta para cada entrega y para cada grupo. Las entregas deben enviarse en PDF, sin código adjunto y con el nombre: G1-E1-APELLIDO-NOMBRE.PDF\nPueden consultar el cronograma de entregas acá."
+    "text": "Régimen de aprobación\nLa materia tiene 4 entregas (3 entregas parciales y un trabajo final) y se aprueba con 65 puntos. La nota final de la materia se compone así:\n\nEntrega 1: 20 puntos\nEntrega 2: 20 puntos\nEntrega 3: 20 puntos\nTrabajo final: 40 puntos\n\nLas consignas de las entregas y del trabajo final se explican los días martes en la clase presencial de cada grupo. Cada entrega tiene una fecha límite especificada en el cronograma. Tener en cuenta que las entregas son incrementales, esto es, que cada una depende de la anterior y culmina en el trabajo final.\nEn caso de entregar con retraso, el trabajo tendrá una puntuación menor. Los trabajos entregados hasta una semana después de la fecha límite tendrán 5 puntos menos de puntaje máximo. Los trabajos entregados con más de una semana de atraso tendrán 10 puntos menos de nota máxima.\nLas entregas se cargan en en el campus de la materia y deben enviarse en PDF, sin código adjunto y con el nombre: G#-E$-APELLIDO-NOMBRE.PDF donde # es el número de grupo y $ el número de la entrega\nPueden consultar el cronograma de entregas acá."
   },
   {
     "objectID": "pautas.html#uso-de-datos",
@@ -130,7 +130,7 @@
     "href": "pautas.html#otros-recursos",
     "title": "Pautas",
     "section": "Otros recursos",
-    "text": "Otros recursos\nEjemplos de trabajos de años anteriores\n\nDetección de cataratas y glaucoma en imágenes de fondo de ojo. Hernán Estrin\nPatrones de uso del servicio de datos en la red de telefonía móvil de la ciudad de Milán. Horacio Gastón Arrigo"
+    "text": "Otros recursos\nEjemplos de trabajos de años anteriores\n\nDetección de cataratas y glaucoma en imágenes de fondo de ojo. Hernán Estrin\nPatrones de uso del servicio de datos en la red de telefonía móvil de la ciudad de Milán. Horacio Gastón Arrigo\n\nTrabajo hecho con una combinación de datasets públicos (Daniela Parada):\n\nIC-datasets-docencia"
   },
   {
     "objectID": "pautas.html#preguntas-frecuentes",
@@ -208,5 +208,19 @@
     "title": "Consignas",
     "section": "Trabajo final",
     "text": "Trabajo final\nLa última entrega consiste en sumarle “Discusión y conclusiones” a lo hecho en las entregas anteriores, lo que constituye el trabajo final de la materia.\nConsigna para el trabajo final."
+  },
+  {
+    "objectID": "pautas.html#objetivo",
+    "href": "pautas.html#objetivo",
+    "title": "Pautas",
+    "section": "",
+    "text": "El trabajo a lo largo de este curso consiste en elegir un conjunto de datos, realizar un análisis adecuado del mismo utilizando al menos dos técnicas aprendidas durante la carrera de especialización y redactar un informe final."
+  },
+  {
+    "objectID": "datasets.html#sugerencias-para-elegir-el-dataset",
+    "href": "datasets.html#sugerencias-para-elegir-el-dataset",
+    "title": "Datasets",
+    "section": "",
+    "text": "Como sugerencia general, elijan un dataset sobre un tema que les interese o sobre el que están trabajando actualmente. Como algunos conjuntos de datos se han usado en exceso para estos objetivos particulares, tenga en cuenta que los siguientes están prohibidos en este trabajo (se pueden agregar más a esta lista, así que asegúrense de revisarla regularmente):\n\ntitanic\nmtcars\niris\nMNIST\nCIFAR-10\n\nLo mejor es usar un conjunto de datos para el cual no haya un análisis listo en Internet, pero si eligen un conjunto de datos que ya se usó en algún estudio de caso disponible online, proporcionen el enlace a estudios anteriores e informen cómo sus análisis difieren de esos (por ejemplo, si alguien ha realizado un análisis no bayesiano y ustedes realizan el análisis bayesiano completo).\nSegún el modelo y la estructura de los datos, un buen dataset tendría más de 100 observaciones pero menos de 1 millón. Si conocen un dataset interesante pero muy pesado, pueden usar un subconjunto más pequeño de los datos para mantener factibles los tiempos de cálculo."
   }
 ]

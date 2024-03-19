@@ -27,35 +27,35 @@ d %>%
   fmt_date(deadline, date_style = "10") %>%
   sub_missing(columns = fecha, missing_text = "") %>% 
   sub_missing(columns = deadline, missing_text = "") %>% 
-  opt_row_striping(row_striping = FALSE) %>% 
-  gt_highlight_rows(
-     rows = 1:3,
-     fill = "#ffffff",
-     bold_target_only = TRUE
-   ) %>%
-  gt_highlight_rows(
-     rows = c(2,4,5),
-     fill = "#edf8e9",
-     bold_target_only = TRUE
-   ) %>%
-  gt_highlight_rows(
-     rows = 6:8,
-     fill = "#c7e9c0",
-     bold_target_only = TRUE
-   ) %>%
-  gt_highlight_rows(
-     rows = 9:11,
-     fill = "#a1d99b",
-     bold_target_only = TRUE
-   ) %>%
-  gt_highlight_rows(
-     rows = 12:14,
-     fill = "#74c476",
-     bold_target_only = TRUE
-   ) %>%
-  gt_highlight_rows(
-     rows = 15:16,
-     fill = "#31a354",
-     bold_target_only = TRUE
-   )
+  opt_row_striping(row_striping = FALSE) # %>% 
+  # gt_highlight_rows(
+  #    rows = 1:3,
+  #    fill = "#ffffff",
+  #    bold_target_only = TRUE
+  #  ) %>%
+  # gt_highlight_rows(
+  #    rows = c(2,4,5),
+  #    fill = "#edf8e9",
+  #    bold_target_only = TRUE
+  #  ) %>%
+  # gt_highlight_rows(
+  #    rows = 6:8,
+  #    fill = "#c7e9c0",
+  #    bold_target_only = TRUE
+  #  ) %>%
+  # gt_highlight_rows(
+  #    rows = 9:11,
+  #    fill = "#a1d99b",
+  #    bold_target_only = TRUE
+  #  ) %>%
+  # gt_highlight_rows(
+  #    rows = 12:14,
+  #    fill = "#74c476",
+  #    bold_target_only = TRUE
+  #  ) %>%
+  # gt_highlight_rows(
+  #    rows = 15:16,
+  #    fill = "#31a354",
+  #    bold_target_only = TRUE
+  #  )
 ```
