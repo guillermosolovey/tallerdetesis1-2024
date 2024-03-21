@@ -37,4 +37,4 @@ Si están buscando inspiración o no están seguros de por dónde empezar, puede
 
 ## Ejemplos de datasets
 
-Algunos ejemplos específicos que pueden usar según la técnica de análisis están en el [siguiente documento](https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing).
+Algunos ejemplos específicos que pueden usar según la técnica de análisis están en el [siguiente documento](https://docs.google.com/document/d/1HzllxEjlBR44Yx5O97CJ_TH-aYdLH-J0Yb4awlfebXQ/edit?usp=sharing).
